@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "CustomFunkPlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
